@@ -125,6 +125,7 @@ footer
     /*padding: 0;*/
     width: 500px;
     background-image: url(https://surrealeverything.github.io/Adventure-Time-Time/Background2.jpg);
+    background: coral;
     border: 5px solid coral;
     border-radius: 10px;
     box-shadow: 5px 5px 3px rgba(0, 0, 0, .5);
