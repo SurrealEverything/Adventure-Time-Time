@@ -1,6 +1,6 @@
 body 
 {
-    background-image: url("https://surrealeverything.github.io/Adventure-Time-Time/background.jpg");
+    background-image: url(https://surrealeverything.github.io/Adventure-Time-Time/background.jpg);
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
@@ -25,7 +25,7 @@ header>img:hover
     padding: 0;
     overflow: hidden;
     /*background-color: DarkOrchid;*/
-    background-image: url("https://surrealeverything.github.io/Adventure-Time-Time/f1u2cck.jpg");
+    background-image: url(https://surrealeverything.github.io/Adventure-Time-Time/f1u2cck.jpg);
 }
 #navbar{z-index: 500;}
 #navbar ul>li{float: left}
@@ -124,7 +124,7 @@ footer
     margin-top: 2%;
     /*padding: 0;*/
     width: 500px;
-    background-image: url("https://surrealeverything.github.io/Adventure-Time-Time/Background2.jpg");
+    background-image: url(https://surrealeverything.github.io/Adventure-Time-Time/Background2.jpg);
     border: 5px solid coral;
     border-radius: 10px;
     box-shadow: 5px 5px 3px rgba(0, 0, 0, .5);
